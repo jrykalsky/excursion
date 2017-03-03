@@ -11,6 +11,25 @@ h1 {
   text-align: center;
 }
 
-p, h2 {
+p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: grey;
+}
+
+.downloadLink {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
   color: white;
+}
+
+#copyright {
+  color: grey;
+  text-align: right;
 }
